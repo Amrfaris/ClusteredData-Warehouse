@@ -1,0 +1,4 @@
+[
+  {"dealUniqueId":"TX1004", "fromCurrencyISO":"CAD", "toCurrencyISO":"AUD", "dealTimestamp":"2023-06-01 14:00:00", "dealAmount":"2500.00"},
+  {"dealUniqueId":"TX1005", "fromCurrencyISO":"NZD", "toCurrencyISO":"USD", "dealTimestamp":"2023-06-01 14:30:00", "dealAmount":"3000.00"}
+]
