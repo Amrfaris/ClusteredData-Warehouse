@@ -11,24 +11,22 @@ ClusteredDataWarehouse is a Java-based application that manages transaction data
 
 ## Project Structure
 src/
-
-main/
-java/
-Main.java
-util/
-DBConnection.java
-dao/
-TransactionDAO.java
-model/
-Transaction.java
-test/
-java/
-TransactionDAOTest.java
+  main/
+    java/
+      Main.java
+      util/
+        DBConnection.java
+      dao/
+        TransactionDAO.java
+      model/
+        Transaction.java
+  test/
+    java/
+      TransactionDAOTest.java
 docker-compose.yml
 Dockerfile
 pom.xml
 README.md
-
 
 ## Setup and Usage
 
