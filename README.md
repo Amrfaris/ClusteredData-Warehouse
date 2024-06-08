@@ -14,12 +14,12 @@ src/
   main/
     java/
       Main.java
-      util/
-        DBConnection.java
-      dao/
-        TransactionDAO.java
-      model/
-        Transaction.java
+    util/
+      DBConnection.java
+    dao/
+      TransactionDAO.java
+    model/
+      Transaction.java
   test/
     java/
       TransactionDAOTest.java
